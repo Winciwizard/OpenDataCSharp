@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenData", "OpenData\OpenData.csproj", "{AF14BA37-FCD1-4543-843B-0DDD7BEDB4D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{679186C8-21C5-4AC3-9CA6-2512A923A7C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrenobleTransport", "GrenobleTransport\GrenobleTransport.csproj", "{4388C604-86ED-4708-AAB2-1842CBA1B427}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF14BA37-FCD1-4543-843B-0DDD7BEDB4D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF14BA37-FCD1-4543-843B-0DDD7BEDB4D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF14BA37-FCD1-4543-843B-0DDD7BEDB4D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF14BA37-FCD1-4543-843B-0DDD7BEDB4D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{679186C8-21C5-4AC3-9CA6-2512A923A7C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679186C8-21C5-4AC3-9CA6-2512A923A7C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679186C8-21C5-4AC3-9CA6-2512A923A7C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679186C8-21C5-4AC3-9CA6-2512A923A7C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4388C604-86ED-4708-AAB2-1842CBA1B427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4388C604-86ED-4708-AAB2-1842CBA1B427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4388C604-86ED-4708-AAB2-1842CBA1B427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4388C604-86ED-4708-AAB2-1842CBA1B427}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83320EFE-9597-45FD-9370-202FF673B7CE}
+	EndGlobalSection
+EndGlobal
